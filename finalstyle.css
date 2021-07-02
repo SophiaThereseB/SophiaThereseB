@@ -1,0 +1,183 @@
+@charset "utf-8";
+/* Created by Sophia Therese Bondoc on 6/30/2021 */
+
+body
+{
+  background-color:#E7E5D9;
+}
+
+.header
+{
+  background-image:url(https://static.vecteezy.com/system/resources/thumbnails/002/144/159/small/abstract-background-with-earth-tone-shapes-free-vector.jpg);
+  border: 5px solid #5E5946;
+}
+
+/* Above is the URL for the background image of the headers. */
+
+#webpagemenu
+{
+	color:white;
+	text-size:10px;
+	background-color:#5E5946;
+	border:#5E5946;
+}
+
+.center
+{
+	text-align:center;
+}
+
+.web
+{
+	color:white;
+}
+
+#menu
+{
+	background-color:#5E5946;
+}
+
+h1
+{
+  text-align:center;
+  color:white;
+  font-family:georgia;
+  font-size:30px;
+}
+
+h2
+{
+	text-align:center;
+	color:#5E5946;
+	font-family:georgia;
+	font-size:23px;
+	background-color:#E7E5D9;
+	border:1px solid #5E5946;
+}
+
+img
+
+{
+	width:150px;
+	height:100px;
+}
+
+#sunflowers
+{
+	width:150px;
+	height:170px;
+}
+
+#pieta
+{
+	width:250px;
+	height:250px;
+	float:right;
+	padding:1px;
+	margin:2px;
+	border:10px outset #C3C1AB;
+	position:relative;
+}
+
+#adam
+{
+	float:left;
+	width:300px;
+	height:200px;
+	padding:1px;
+	margin:2px;
+	border:10px outset #C3C1AB;
+	position:relative;
+}
+
+h3
+{
+	text-align:center;
+  font-family:georgia;
+  color:#5E5946;
+}
+
+#art
+{
+	width:450px;
+	height:300px;
+	padding:1px;
+	margin:2px;
+	border:10px outset #C3C1AB;
+	position:relative;
+}
+
+table
+{
+  	background-color:#F0DED0;
+	font-family:georgia;
+	color:#5E5946;
+}
+
+li
+{
+  font-family:georgia;
+  color:#5E5946;
+}
+
+.paragraphs1
+{
+  color: #5E5946;
+  font-family:georgia;
+  text-align:center;
+  font-size:17px;
+  background-color:#E7E5D9;
+}
+
+/* The two paragraph class selectors are for the paragraphs on every webpage. */
+
+.paragraphs2
+{
+    color: #5E5946;
+  font-family:georgia;
+  text-align:center;
+  font-size:17px;
+  background-color:#E7E5D9;
+}
+
+form
+{
+  color: #5E5946;
+  font-family:georgia;
+  text-align:center;
+  font-size:17px;
+}
+
+
+#vangogh
+{
+	width:175px;
+	height:200px;
+	float:left;
+	padding:1px;
+	margin:2px;
+	border:10px outset #C3C1AB;
+	position:relative;
+}
+
+#michelangelo
+{
+	width:175px;
+	height:200px;
+	float:right;
+	padding:1px;
+	margin:2px;
+	border:10px outset #C3C1AB;
+	position:relative;
+}
+
+#footer
+{
+	background-color:#5E5946;
+	color:white;
+	text-align:center;
+	
+}
+
+/* Source(s):
+https://static.vecteezy.com/system/resources/thumbnails/002/144/159/small/abstract-background-with-earth-tone-shapes-free-vector.jpg */
